@@ -143,7 +143,7 @@ export const getBirthdayMessage = () => {
         if (item.diffDay === 0) {
           message = `今天是 ${item.name} 的${age ? age + '岁' : ''}生日哦，祝${item.name}生日快乐！`
         } else {
-          message = `距离 ${item.name} 的${age ? age + 1 + '岁' : ''}生日还有${item.diffDay}天`
+          message = `距离 ${item.name} 的生日还有${item.diffDay}天`
         }
       }
 
