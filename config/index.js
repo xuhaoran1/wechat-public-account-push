@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "d11f7d7fd3869be1f1151b234088fe1b",
 
     // 模板消息id
-    TEMPLATE_ID: "Q3wAcp69VMK27-5yq21oV4LVgBuejJHGb2Lvs7YArcQ",
+    TEMPLATE_ID: "29_JgP1Ns2ep_I-tyuPnODfH46jSG-id9seeAIDlIBg",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "iq5rzFQBFk_kWzhkGRbTUVAKV7wlQutn1BypKya2F64",
@@ -54,7 +54,7 @@ export const config = {
     /** 日期相关 */
 
     // 认识的日子，格式同上
-    MEET_DAY: "2021-04-23",
+    LOVE_DATE: "2021-04-23",
     // 在一起的日子
     MARRY_DATE: "2021-08-14",
 
